@@ -19,7 +19,16 @@
     <img src="img/php-snap.png" alt="PHP Project Thumbnail" class="projectThumb">
     <div class="projectInfo">
         <h2 class="projectTitle">PHP/SQL Project</h2>
-        <p class="projectDescription">PHP/SQL project with relational databases that contain users, posts, and comments</p>
+        <p class="projectDescription">PHP/SQL project with relational databases that contain users, posts, and comments.</p>
+        <a href="#" class="button phpButton">Check it out</a>
+    </div>
+</div>
+
+<div class="page vueDiv">
+    <img src="img/vue-snap.png" alt="PHP Project Thumbnail" class="projectThumb">
+    <div class="projectInfo">
+        <h2 class="projectTitle">PHP/SQL Project</h2>
+        <p class="projectDescription">PHP/SQL project with relational databases that contain users, posts, and comments.</p>
         <a href="#" class="button phpButton">Check it out</a>
     </div>
 </div>
