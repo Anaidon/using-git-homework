@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Sam Abt Portfolio boi</title>
+    <title>Sam Abt Portfolio</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -15,10 +15,13 @@
     <p>Pellentesque interdum tristique laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus diam urna, luctus ac vulputate sed, egestas sodales velit. Nunc purus velit, dignissim sed rhoncus eget, varius ut dui. Nunc dui urna, rutrum vitae porttitor et, condimentum et erat. Vivamus a est velit, quis pharetra elit. Nulla ultricies vestibulum scelerisque. Etiam elementum malesuada massa in interdum. Maecenas eu sem velit. Pellentesque felis enim, semper nec vehicula vel, dapibus sit amet ante.</p>
 </div>
 
-<div class="page page-2">
-    <p>Nunc neque sem, rutrum sed posuere quis, pretium nec magna. Vestibulum ipsum nibh, adipiscing non porttitor eu, facilisis in dui. Morbi nisi nulla, blandit a bibendum et, tristique sit amet orci. Phasellus sollicitudin mi a velit vestibulum sed consectetur libero bibendum. Ut gravida placerat semper. Donec lobortis nunc sed lectus lobortis rhoncus. Nulla dignissim sapien eget arcu egestas quis dapibus ante placerat. In congue, odio id volutpat ullamcorper, ligula lectus interdum augue, sed pharetra risus orci tincidunt erat. Suspendisse potenti. Praesent ac nibh sapien. Mauris in lectus a arcu sollicitudin sollicitudin. Vivamus ultrices libero eu enim pulvinar vehicula. Praesent nulla ipsum, fermentum a pellentesque nec, interdum vitae justo.</p>
-
-    <p>Vestibulum eu turpis dui, non elementum augue. Donec faucibus ante at tortor egestas pharetra. Nulla facilisi. Duis blandit leo et tortor lobortis ornare. Donec in nisl faucibus urna viverra adipiscing. Nunc auctor orci nec libero ultrices sed rhoncus purus aliquet. Fusce interdum lacus vitae est molestie euismod dignissim felis consequat. Suspendisse elementum, quam vitae imperdiet imperdiet, urna neque malesuada tellus, quis pulvinar ligula augue vehicula tellus. Morbi sagittis ante quam, quis elementum purus.</p>
+<div class="page phpDiv">
+    <img src="img/php-snap.png" alt="PHP Project Thumbnail" class="projectThumb">
+    <div class="projectInfo">
+        <h2 class="projectTitle">PHP/SQL Project</h2>
+        <p class="projectDescription">PHP/SQL project with relational databases that contain users, posts, and comments</p>
+        <a href="#" class="button phpButton">Check it out</a>
+    </div>
 </div>
 
 <div class="page page-3">
